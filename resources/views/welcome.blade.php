@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel gDD
+                    GRM UIS
                 </div>
 
                 <div class="links">
