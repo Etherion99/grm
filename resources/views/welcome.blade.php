@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    GRM UIS
+                    GRM UIS/
                 </div>
 
                 <div class="links">
